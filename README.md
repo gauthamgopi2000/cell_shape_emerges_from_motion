@@ -7,3 +7,21 @@ To run the executable in the same directory:
 
 ./main ea eb el B Nt f0 tau tau_p
 
+The inputs to the script are the following parameters:
+
+ea = cell area conservation energy
+
+eb = cell membrane bending energy
+
+el = cell perimeter elastic energy
+
+B = drag constant
+
+Nt = number of timesteps for simulation
+
+f0 = active brownian force
+
+tau = persistence time for active brownian force
+
+tau_p = perimeter adaptation timescale
+
