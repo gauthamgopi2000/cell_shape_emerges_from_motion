@@ -5,7 +5,7 @@ _g++ -o main main.cpp_
 
 To run the executable in the same directory:
 
-./main ea eb el B Nt f0 tau tau_p
+./main $\epsilon_a$ eb el B Nt f0 tau tau_p
 
 The inputs to the script are the following parameters:
 
