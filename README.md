@@ -25,4 +25,4 @@ $\tau$ = persistence time for active brownian force
 
 $\tau_p$ = perimeter adaptation timescale
 
-The simulation is initalized with a packing of deformable particles as $\mathcal{A}_0=1.7$.
+The simulation is initalized with a packing of deformable particles at $\mathcal{A}_0=1.7$.
